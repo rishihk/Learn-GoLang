@@ -1,0 +1,2 @@
+Run and compile: go run .
+Initialize go module: go mod init <module name>

@@ -52,6 +52,7 @@ func main() {
 // bigger picture
 // we define structs that match the structure of the JSON data
 // specify the url, http.get(url)
+// defer response
 // make a newdecoder on the json response body
 // decode it into a data variable representing the structure of the api data, (parse the JSON into the structs)
 // access, use, process the parsed data.
